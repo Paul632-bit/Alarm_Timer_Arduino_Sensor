@@ -1,5 +1,7 @@
 # Arduino Multi-Sensor Control System
 
+<img width="800" height="500" alt="Screenshot 2026-04-22 012115" src="https://github.com/user-attachments/assets/0b6411aa-2bb7-4612-a0f8-3120ce24320e" />
+
 This project is an Arduino-based multi-sensor control system that integrates a Light Dependent Resistor (LDR), ultrasonic distance sensor, buzzer, servo motor, and a 16x2 LCD display. The system measures ambient light and distance to an object, and controls a buzzer and servo motor accordingly, displaying real-time data on the LCD.
 
 ## Features
